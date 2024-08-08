@@ -1,0 +1,2 @@
+# struc-proto
+struc-proto
